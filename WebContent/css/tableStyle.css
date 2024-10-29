@@ -1,0 +1,7 @@
+@CHARSET "UTF-8";
+table tr th{
+	background-color:rgb(148,231,248);
+}
+table tr td{
+	background-color:rgb(240,248,236);
+}
